@@ -1,7 +1,7 @@
 ---
 title: "重新开始"
 description: "我重置了我的网站，又一次"
-pubDate: "2024/02/19"
+pubDate: "Sep 10 2022"
 heroImage: "/post_img.webp"
 tags: ["杂谈"]
 ---

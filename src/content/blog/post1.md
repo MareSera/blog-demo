@@ -1,9 +1,9 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "重新开始"
+description: "我重置了我的网站，又一次"
+pubDate: "2024/02/19"
 heroImage: "/post_img.webp"
-tags: ["tokio"]
+tags: ["杂谈"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

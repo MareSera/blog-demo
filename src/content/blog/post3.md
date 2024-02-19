@@ -1,12 +1,13 @@
 ---
-title: # awa
+title: "Demo Post 3"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+pubDate: "Sep 12 2022"
 heroImage: "/post_img.webp"
-tags: ["啊"]
+badge: "Demo badge"
+tags: ["rust","tokio"]
 ---
-# 芜湖
-Lorem ipsum dolor sit amet, 芜湖 adipiscing elit, sed do eiusmod tempor
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
 malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
 pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
